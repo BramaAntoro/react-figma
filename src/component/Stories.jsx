@@ -33,7 +33,7 @@ const Stories = () => {
         { id: 9, title: 'Messi', avatar: Messi },
         { id: 9, title: 'Messi', avatar: Messi },
         { id: 9, title: 'Messi', avatar: Messi },
-        { id: 9, title: 'Messi', avatar: Messi },
+        { id: 9, title: 'Messi', avatar: Messi },   
     ];
 
     return (
