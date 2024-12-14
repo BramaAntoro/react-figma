@@ -27,7 +27,7 @@ const MyNavbar = () => {
             <div className={`fixed top-0 left-0 h-screen bg-white text-black p-6 transition-all duration-300 ease-in-out z-40
           ${isOpen ? 'w-64 translate-x-0' : 'w-64 -translate-x-full lg:translate-x-0'}`}>
                 <div className="mb-8 mt-8 lg:mt-0">
-                    <h1 className="text-3xl font-bold mb-8 text-gray-700">SocialHub</h1>
+                    <h1 className="text-3xl font-bold mb-8 text-gray-700">Sosmed</h1>
                 </div>
                 <nav className="space-y-2">
                     {navItems.map((item, index) => (
